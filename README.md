@@ -5,7 +5,6 @@
   </a>
 </p>
 
- 
 <p align="center">
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
@@ -30,7 +29,6 @@
   
 </p>
 
-
 # Project Name : TESLA CLONE
 
 As the project name describes this is a clone of the tesla web app.
@@ -39,18 +37,18 @@ As the project name describes this is a clone of the tesla web app.
 
 - Next.Js
 - React.Js
-- React Reveal
 - Framer motion
-- JavaScript 
+- JavaScript
 - CSS
 - Visual Studio Code
 - Git & GitHub <br/>
 
 # How it look's
-    
+
   <img src="gif/20211004_112114.gif" />
 
 # Some important information about Next.Js
+
 ## Getting Started
 
 First, run the development server:
@@ -85,5 +83,6 @@ https://tesla-clone-teal.vercel.app/
 open it on desktop
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# Thanks for visiting🤗
 
+# Thanks for visiting🤗
+# tesla
