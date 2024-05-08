@@ -1,0 +1,6 @@
+.mainpage {
+  overflow-y: scroll; /* Enable vertical scrolling */
+  height: 100vh; /* Set the height to the full viewport height */
+  scroll-snap-type: y mandatory; /* Enable vertical scroll snapping */
+  -webkit-overflow-scrolling: touch; /* Improve scrolling on iOS devices */
+}
